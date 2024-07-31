@@ -1,4 +1,5 @@
-PizzaDelivery
+#PizzaDelivery
+
 Descrição
 PizzaDelivery é um aplicativo Android desenvolvido em Kotlin que simula um serviço de delivery de pizza. Os usuários podem escolher o sabor da pizza, a quantidade desejada, calcular o valor total do pedido e efetuar o pagamento ao final.
 
